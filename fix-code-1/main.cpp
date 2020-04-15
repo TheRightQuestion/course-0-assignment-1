@@ -8,8 +8,6 @@ int main() {
     float average_rainfall = .23;
     float AverageSnowfall = .12;
 
-    float averagePrecipitation = average_rainfall + AverageSnowfall;
-
     float total_precipitation = DAYS_PER_YEAR * averagePrecipitation;
 
     cout << "The precipitation in Boston is: " << total_precipitation << " in." << endl;
