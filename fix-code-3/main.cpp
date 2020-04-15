@@ -5,7 +5,6 @@ using namespace std;
 int main() {
   // Calculate the total number of hours students spent on assignments.
   int num_assignments = 12;
-  int hours_per_assignment = 3;
   int total_hours_on_assignments = hours_per_assignment * num_assignments;
 
   // Calculate the total number of lines of code written on assignments.
