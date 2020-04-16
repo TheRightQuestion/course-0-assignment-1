@@ -8,5 +8,4 @@ int main() {
   int z=x*y;
   cout<<"The value of z is: ";
   cout<<z;
-  cout<<endl;
 }
