@@ -6,7 +6,6 @@ int main() {
   int price_avocado;
   int price_tomato;
   int num_avocados;
-  int num_tomatoes;
   // Step 1: Prompt the user to input the number of tomatoes and avocados required.
 
   // Step 2: Prompt the user to input the cost of tomatoes and avocados.

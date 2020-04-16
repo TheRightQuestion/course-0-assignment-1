@@ -7,7 +7,6 @@ int main() {
   int num_cows = 4;
 
   int average_pig_weight = 150;
-  int average_cow_weight = 300;
 
   int total_weight = num_pigs * average_cow_weight + num_cows * average_cow_weight;
 
